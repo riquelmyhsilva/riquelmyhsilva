@@ -1,3 +1,3 @@
-# Hi there 👋 i'm Riquelmy¹
+# Hi there 👋 I'm Riquelmy!
 
-I am a student exploring the code world!
+### I am a student exploring the code world!
